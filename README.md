@@ -9,9 +9,9 @@ differents formats like XML(The best in our opinion because it support saving of
 alternative), Binary, JSON. And the last WFCMod(WaveFunctionCollapseMod), it are only a implementatio
 of the algorithm
 
-###Documentation
+### Documentation
 
-> .[!TIP].
+> [!TIP]
 > Remember the docs are in beta
 
 ## UMOD
@@ -19,7 +19,7 @@ of the algorithm
 This is the part of the framework dedicated to make good sound. It are subject to changes in the future
 like a plugin search system and more. It only has two components AudioPlayer and UAudioWorker.
 
-> .[!TIP].
+> [!TIP]
 > We recomend only use AudioPlayer because
 > UAudioWorker are legacy and dont are going
 > to recive any update
